@@ -25,3 +25,12 @@ Why do we need variables?
 A) To do or while executing a program we deal with data. So we store that data in DB but for temporary we need to store in the 
 program to execute it. So we use varaiables to store the data temperary.
 
+datatype?
+a) we have 2 types
+1) primitive datatype    2)?
+In primitive data type we have
+initegers : int, short, long
+Booleans : true or false
+Characters : a,b 
+Float: doble and float
+
