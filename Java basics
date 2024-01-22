@@ -19,3 +19,8 @@ Step 1: First we need to create a class inside that we need a method which will 
 
 Step2: Once you write the code save that file as Hello.java and in the teminal give command as javac Hello.java. It will 
 compile and give you another file as hello.class which will have the byte code to run the application.
+
+
+Why do we need variables?
+A) To do or while executing a program we deal with data. So we store that data in DB but for temporary we need to store in the 
+program to execute it. So we use varaiables to store the data temperary.
