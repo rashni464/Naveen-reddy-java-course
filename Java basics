@@ -1,1 +1,18 @@
+What is JVM,JRE, JDK? How java code gets compiled?
+A) When we write the java code we save that as .java extension and that file gets compiled to byte code. JVM takes the 
+byte code and run the application on JRE. As a application have multiple files JVM doesnt know which file to pick
+So there should be a main file among others so we specific that with Public Static Void Main.
 
+Why do we need classes?
+A) Java is object oriented language it mean event thing gets converted to objects. in order to convert into objects we need classes.
+
+How to write a basic hello world java code?
+Step 1: First we need to create a class inside that we need a method which will print hello world.
+
+   class Hello
+{
+    public static void main (String a[])
+{
+   system.out.print("hello world");
+}
+}
